@@ -1,0 +1,27 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10bfc9da72000151591514900000003910001
+clientId2=10bfc9da72000151591389800000003780008
+clientId3=10bfc9da72000151591389700000003780005
+count=3
+discardCommand3[$e]=rm,$HOME/.config/session/kwin_10bfc9da72000151591389700000003780005_1515915171_474301
+program1=pulseaudio
+program2=/usr/lib/org_kde_powerdevil
+program3=/usr/bin/kwin_x11
+restartCommand1=
+restartCommand2=/usr/lib/org_kde_powerdevil,-session,10bfc9da72000151591389800000003780008_1515915171_305053
+restartCommand3=/usr/bin/kwin_x11,-session,10bfc9da72000151591389700000003780005_1515915171_474301
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=shorlak
+userId2=shorlak
+userId3=shorlak
+wasWm1=false
+wasWm2=false
+wasWm3=true
